@@ -1,0 +1,230 @@
+body{
+    color: #747474;
+}
+.doclogo{
+width: 268px;
+height: 33px;
+}
+aside{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.mainheader{
+margin-top: 8px;
+width: 250px;
+display: flex;
+justify-content:space-between;
+}
+.header-containter{
+    display: flex;
+    justify-content:space-between;
+    height: 35px;
+    margin-left: 167px;
+    margin-right: 167px;
+}
+.logo-head{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.head h1{
+    text-align: center;
+    color: #00b39b;
+}
+.paragraphes{
+    display: flex;
+    width: 1000px;
+    margin:0 auto;
+    justify-content: space-between;
+    text-align: justify;
+}
+.paragraphes p{
+    padding: 10px;
+}
+.box{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 167px;
+    margin-right: 167px;
+    justify-content: space-between;
+}
+.For-patients{
+    background-color: #00ccb1;
+    color: white;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.patient-containers{
+    margin: 10px 10px;
+}
+.country{
+    border: 0;
+    background-color: transparent;
+    color: white;
+    text-decoration: underline;
+    font-size: 20px;
+}
+option{
+    color: black;
+}
+.For-doctors{
+    background-color: #3d83df;
+    color: white;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+.doctors-containers{
+    margin: 10px 10px;
+}
+.For-clinics{
+    background-color: #1b2734;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+.clinics-containers{
+    margin: 10px 10px;
+}
+.brand-section{
+    display: flex;
+    margin-left: 167px;
+    margin-right: 167px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.brand-section h1{
+    padding-right: 26px;
+    color: #00b39b;
+}
+.logos{
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    align-items: center;
+}
+.offices-slider{
+    margin-left: 167px;
+    margin-right: 167px;
+}
+.offices-text h1{
+    color: #00b39b;
+    text-align: center;
+    
+}
+.offices-text p{
+    text-align: center;
+    line-height: 25px;
+    max-width: 460px;
+    margin: 0 auto;
+}
+.sliders{
+    display: flex;
+    flex-wrap: wrap;
+}
+.marsaw-slide{
+    margin-right: 20px;
+}
+.slide-text{
+    display: flex;
+    justify-content: space-between;
+    padding: 20 35;
+}
+.See-openings{
+    background-color: #3d83df;
+    color: white;
+    padding: 10 10;
+}
+.Barcelona-slide{
+    margin-right: 20px;
+}
+.Rome-slide{
+    margin-right: 20px;
+}
+.Bologna-slide{
+    margin-right: 20px;
+}
+.join-us{
+    margin-top: 80px 167px;
+    text-align: center;
+}
+.join-us a {
+    background-color: #3d83df;
+    color: white;
+    padding: 10 10;
+    text-transform: uppercase;
+    text-decoration: none;
+} 
+.Footer{
+    border-top: 1px solid #eef2f2;
+    font-size: 12px;
+    text-align: center;
+}
+.stats-section{
+background: #e5faf8;
+background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+display: flex;
+}
+.stat-text{
+    display: flex;
+flex-direction: column;
+width: 70%;
+text-align: center;
+margin-top: 60px;
+}
+.stat-text  h1{
+    color: #00b39b;
+    font-size: 40px;
+}
+.stat-text p{
+    
+}
+.stat-boxes{
+    display: flex;
+    flex-wrap: wrap;
+}
+.stat-boxes h3{
+    color: #00b39b;
+}
+.boxe1{
+background: #fff ;
+border-radius: 5px;
+text-align: center;
+width: 187px;
+height: 250px;
+padding: 15px;
+margin-right: 20px;
+margin-top: 50px;
+}
+.boxe2{
+background: #fff ;
+border-radius: 5px;
+text-align: center;
+width: 187px;
+height: 250px;
+padding: 15px;
+margin-right: 20px;
+margin-top: 20px;
+}
+.boxe3{
+background: #fff ;
+border-radius: 5px;
+text-align: center;
+width: 187px;
+height: 250px;
+padding: 15px;
+margin-right: 20px;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.boxe4{
+background: #fff ;
+border-radius: 5px;
+text-align: center;
+width: 187px;
+height: 250px;
+padding: 15px;
+margin-right: 20px;
+margin-bottom: 50px;
+}
